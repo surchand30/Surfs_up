@@ -19,8 +19,10 @@ Though temperature plays a crucial role in determining if the business model wou
 
 * Based on the below results , it appears that setting up the surfstore close to UPPER WAHIAWA 874.3, HI US station will be the most profitable. This station has has no rainy days in December since 2010. Also this station has had no rainy days in June in 2011,2012,2014,2015,2016.
 
+#### June Analysis
 ![June Analysis](https://github.com/surchand30/Surfs_up/blob/main/resources/June_pivot.PNG)
 
+#### December Analysis
 ![December Analysis](https://github.com/surchand30/Surfs_up/blob/main/resources/dec_pivot.PNG)
 
 
